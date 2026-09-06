@@ -9,6 +9,7 @@
 | [0075-sort-colors](https://github.com/hafizapatel04-bit/dsa-prac/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/hafizapatel04-bit/dsa-prac/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/hafizapatel04-bit/dsa-prac/tree/master/0084-largest-rectangle-in-histogram) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/hafizapatel04-bit/dsa-prac/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/hafizapatel04-bit/dsa-prac/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/hafizapatel04-bit/dsa-prac/tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/hafizapatel04-bit/dsa-prac/tree/master/0209-minimum-size-subarray-sum) |
@@ -111,4 +112,8 @@
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/hafizapatel04-bit/dsa-prac/tree/master/0268-missing-number) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/hafizapatel04-bit/dsa-prac/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
