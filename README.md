@@ -48,6 +48,7 @@
 | [0088-merge-sorted-array](https://github.com/hafizapatel04-bit/dsa-prac/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/hafizapatel04-bit/dsa-prac/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/hafizapatel04-bit/dsa-prac/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/hafizapatel04-bit/dsa-prac/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/hafizapatel04-bit/dsa-prac/tree/master/0268-missing-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/hafizapatel04-bit/dsa-prac/tree/master/0977-squares-of-a-sorted-array) |
 ## Quicksort
@@ -75,6 +76,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/hafizapatel04-bit/dsa-prac/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0169-majority-element](https://github.com/hafizapatel04-bit/dsa-prac/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/hafizapatel04-bit/dsa-prac/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/hafizapatel04-bit/dsa-prac/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/hafizapatel04-bit/dsa-prac/tree/master/0268-missing-number) |
 | [0424-longest-repeating-character-replacement](https://github.com/hafizapatel04-bit/dsa-prac/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/hafizapatel04-bit/dsa-prac/tree/master/0904-fruit-into-baskets) |
@@ -82,6 +84,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/hafizapatel04-bit/dsa-prac/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0242-valid-anagram](https://github.com/hafizapatel04-bit/dsa-prac/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/hafizapatel04-bit/dsa-prac/tree/master/0424-longest-repeating-character-replacement) |
 ## Stack
 |  |
