@@ -18,6 +18,7 @@
 | [0217-contains-duplicate](https://github.com/hafizapatel04-bit/dsa-prac/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/hafizapatel04-bit/dsa-prac/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/hafizapatel04-bit/dsa-prac/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/hafizapatel04-bit/dsa-prac/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/hafizapatel04-bit/dsa-prac/tree/master/0704-binary-search) |
 | [0904-fruit-into-baskets](https://github.com/hafizapatel04-bit/dsa-prac/tree/master/0904-fruit-into-baskets) |
 | [0977-squares-of-a-sorted-array](https://github.com/hafizapatel04-bit/dsa-prac/tree/master/0977-squares-of-a-sorted-array) |
@@ -32,6 +33,7 @@
 | [0125-valid-palindrome](https://github.com/hafizapatel04-bit/dsa-prac/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/hafizapatel04-bit/dsa-prac/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/hafizapatel04-bit/dsa-prac/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/hafizapatel04-bit/dsa-prac/tree/master/0349-intersection-of-two-arrays) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/hafizapatel04-bit/dsa-prac/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0977-squares-of-a-sorted-array](https://github.com/hafizapatel04-bit/dsa-prac/tree/master/0977-squares-of-a-sorted-array) |
 ## Binary Search
@@ -40,6 +42,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/hafizapatel04-bit/dsa-prac/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/hafizapatel04-bit/dsa-prac/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/hafizapatel04-bit/dsa-prac/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/hafizapatel04-bit/dsa-prac/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/hafizapatel04-bit/dsa-prac/tree/master/0704-binary-search) |
 ## Linked List
 |  |
@@ -55,6 +58,7 @@
 | [0217-contains-duplicate](https://github.com/hafizapatel04-bit/dsa-prac/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/hafizapatel04-bit/dsa-prac/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/hafizapatel04-bit/dsa-prac/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/hafizapatel04-bit/dsa-prac/tree/master/0349-intersection-of-two-arrays) |
 | [0977-squares-of-a-sorted-array](https://github.com/hafizapatel04-bit/dsa-prac/tree/master/0977-squares-of-a-sorted-array) |
 ## Quicksort
 |  |
@@ -83,6 +87,7 @@
 | [0217-contains-duplicate](https://github.com/hafizapatel04-bit/dsa-prac/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/hafizapatel04-bit/dsa-prac/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/hafizapatel04-bit/dsa-prac/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/hafizapatel04-bit/dsa-prac/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/hafizapatel04-bit/dsa-prac/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/hafizapatel04-bit/dsa-prac/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/hafizapatel04-bit/dsa-prac/tree/master/0904-fruit-into-baskets) |
