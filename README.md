@@ -7,6 +7,7 @@
 | [0014-longest-common-prefix](https://github.com/hafizapatel04-bit/dsa-prac/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/hafizapatel04-bit/dsa-prac/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/hafizapatel04-bit/dsa-prac/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0066-plus-one](https://github.com/hafizapatel04-bit/dsa-prac/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/hafizapatel04-bit/dsa-prac/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/hafizapatel04-bit/dsa-prac/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/hafizapatel04-bit/dsa-prac/tree/master/0084-largest-rectangle-in-histogram) |
@@ -132,6 +133,7 @@
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/hafizapatel04-bit/dsa-prac/tree/master/0066-plus-one) |
 | [0268-missing-number](https://github.com/hafizapatel04-bit/dsa-prac/tree/master/0268-missing-number) |
 ## Bit Manipulation
 |  |
