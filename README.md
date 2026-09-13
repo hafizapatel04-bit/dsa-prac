@@ -23,6 +23,7 @@
 | [0283-move-zeroes](https://github.com/hafizapatel04-bit/dsa-prac/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/hafizapatel04-bit/dsa-prac/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/hafizapatel04-bit/dsa-prac/tree/master/0704-binary-search) |
+| [0724-find-pivot-index](https://github.com/hafizapatel04-bit/dsa-prac/tree/master/0724-find-pivot-index) |
 | [0904-fruit-into-baskets](https://github.com/hafizapatel04-bit/dsa-prac/tree/master/0904-fruit-into-baskets) |
 | [0977-squares-of-a-sorted-array](https://github.com/hafizapatel04-bit/dsa-prac/tree/master/0977-squares-of-a-sorted-array) |
 ## Two Pointers
@@ -83,6 +84,7 @@
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/hafizapatel04-bit/dsa-prac/tree/master/0209-minimum-size-subarray-sum) |
+| [0724-find-pivot-index](https://github.com/hafizapatel04-bit/dsa-prac/tree/master/0724-find-pivot-index) |
 ## Hash Table
 |  |
 | ------- |
