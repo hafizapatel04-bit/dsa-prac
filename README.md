@@ -137,6 +137,7 @@
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/hafizapatel04-bit/dsa-prac/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/hafizapatel04-bit/dsa-prac/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/hafizapatel04-bit/dsa-prac/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/hafizapatel04-bit/dsa-prac/tree/master/0268-missing-number) |
