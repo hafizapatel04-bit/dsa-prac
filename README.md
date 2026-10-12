@@ -21,6 +21,7 @@
 | [0217-contains-duplicate](https://github.com/hafizapatel04-bit/dsa-prac/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/hafizapatel04-bit/dsa-prac/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/hafizapatel04-bit/dsa-prac/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/hafizapatel04-bit/dsa-prac/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/hafizapatel04-bit/dsa-prac/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/hafizapatel04-bit/dsa-prac/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/hafizapatel04-bit/dsa-prac/tree/master/0724-find-pivot-index) |
@@ -41,6 +42,7 @@
 | [0189-rotate-array](https://github.com/hafizapatel04-bit/dsa-prac/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/hafizapatel04-bit/dsa-prac/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/hafizapatel04-bit/dsa-prac/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/hafizapatel04-bit/dsa-prac/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/hafizapatel04-bit/dsa-prac/tree/master/0349-intersection-of-two-arrays) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/hafizapatel04-bit/dsa-prac/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0977-squares-of-a-sorted-array](https://github.com/hafizapatel04-bit/dsa-prac/tree/master/0977-squares-of-a-sorted-array) |
@@ -50,6 +52,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/hafizapatel04-bit/dsa-prac/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/hafizapatel04-bit/dsa-prac/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/hafizapatel04-bit/dsa-prac/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/hafizapatel04-bit/dsa-prac/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/hafizapatel04-bit/dsa-prac/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/hafizapatel04-bit/dsa-prac/tree/master/0704-binary-search) |
 ## Linked List
@@ -155,6 +158,7 @@
 | ------- |
 | [0136-single-number](https://github.com/hafizapatel04-bit/dsa-prac/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/hafizapatel04-bit/dsa-prac/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/hafizapatel04-bit/dsa-prac/tree/master/0287-find-the-duplicate-number) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -177,4 +181,9 @@
 | [0141-linked-list-cycle](https://github.com/hafizapatel04-bit/dsa-prac/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/hafizapatel04-bit/dsa-prac/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/hafizapatel04-bit/dsa-prac/tree/master/0202-happy-number) |
+| [0287-find-the-duplicate-number](https://github.com/hafizapatel04-bit/dsa-prac/tree/master/0287-find-the-duplicate-number) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/hafizapatel04-bit/dsa-prac/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
