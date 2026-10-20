@@ -25,6 +25,7 @@
 | [0287-find-the-duplicate-number](https://github.com/hafizapatel04-bit/dsa-prac/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/hafizapatel04-bit/dsa-prac/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/hafizapatel04-bit/dsa-prac/tree/master/0704-binary-search) |
+| [0713-subarray-product-less-than-k](https://github.com/hafizapatel04-bit/dsa-prac/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/hafizapatel04-bit/dsa-prac/tree/master/0724-find-pivot-index) |
 | [0904-fruit-into-baskets](https://github.com/hafizapatel04-bit/dsa-prac/tree/master/0904-fruit-into-baskets) |
 | [0977-squares-of-a-sorted-array](https://github.com/hafizapatel04-bit/dsa-prac/tree/master/0977-squares-of-a-sorted-array) |
@@ -57,6 +58,7 @@
 | [0287-find-the-duplicate-number](https://github.com/hafizapatel04-bit/dsa-prac/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/hafizapatel04-bit/dsa-prac/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/hafizapatel04-bit/dsa-prac/tree/master/0704-binary-search) |
+| [0713-subarray-product-less-than-k](https://github.com/hafizapatel04-bit/dsa-prac/tree/master/0713-subarray-product-less-than-k) |
 ## Linked List
 |  |
 | ------- |
@@ -90,11 +92,13 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/hafizapatel04-bit/dsa-prac/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/hafizapatel04-bit/dsa-prac/tree/master/0209-minimum-size-subarray-sum) |
 | [0424-longest-repeating-character-replacement](https://github.com/hafizapatel04-bit/dsa-prac/tree/master/0424-longest-repeating-character-replacement) |
+| [0713-subarray-product-less-than-k](https://github.com/hafizapatel04-bit/dsa-prac/tree/master/0713-subarray-product-less-than-k) |
 | [0904-fruit-into-baskets](https://github.com/hafizapatel04-bit/dsa-prac/tree/master/0904-fruit-into-baskets) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/hafizapatel04-bit/dsa-prac/tree/master/0209-minimum-size-subarray-sum) |
+| [0713-subarray-product-less-than-k](https://github.com/hafizapatel04-bit/dsa-prac/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/hafizapatel04-bit/dsa-prac/tree/master/0724-find-pivot-index) |
 ## Hash Table
 |  |
